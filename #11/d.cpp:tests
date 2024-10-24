@@ -1,0 +1,5 @@
+[
+	{
+		"test": "push 3\npush 14\nsize\nclear\npush 1\nback\npush 2\nback\npop\nsize\npop\nsize\nexit\n"
+	}
+]

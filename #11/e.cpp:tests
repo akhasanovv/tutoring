@@ -1,0 +1,8 @@
+[
+	{
+		"test": "push_back 1\nback\nexit\n"
+	},
+	{
+		"test": "size\npush_back 1\nsize\npush_back 2\nsize\npush_front 3\nsize\nexit\n"
+	}
+]
